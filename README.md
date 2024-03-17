@@ -9,7 +9,7 @@ it is simple to implement,easy to understand.
 
 <img src="media/loginpages.jpg" alt="Login Page">
 <br>
-<img src="media/MainPage.jpg" alt="Main Page">
+<img src="media/mainpage.jpg" alt="Main Page">
 <br>
 <img src="media/sos.jpg" alt="SOS">
 <br>
