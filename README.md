@@ -7,15 +7,15 @@ it is simple to implement,easy to understand.
 
 
 
-<img src="media/loginpages.jpg" alt="Login Page">
+![Login Page](media/loginpages.jpg)
 <br>
-<img src="media/mainpage.jpg" alt="Main Page">
+![Main Page](media/MainPage.jpg)
 <br>
-<img src="media/sos.jpg" alt="SOS">
+![SOS](media/sos.jpg)
 <br>
-<img src="media/period_tracker.jpg" alt="Period Tracker">
+![Period Tracker](media/period_tracker.jpg)
 <br>
-<img src="media/emergency.jpg" alt="Emergency">
+![Emergency](media/emergency.jpg)
 
 
 
