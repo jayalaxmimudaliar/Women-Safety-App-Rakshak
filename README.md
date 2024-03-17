@@ -17,6 +17,7 @@ it is simple to implement,easy to understand.
 <br>
 ![Emergency](media/emergency.jpg)
 
+If images Format are not supported.kindly view the Output in media file
 
 
 
