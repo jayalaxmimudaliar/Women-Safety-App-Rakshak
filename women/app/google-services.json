@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731241033117",
+    "project_id": "login-a708e",
+    "storage_bucket": "login-a708e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731241033117:android:ce9e4110cda21e7f171374",
+        "android_client_info": {
+          "package_name": "com.example.wsafety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqQXJER_52S7eDY38ArkLK4u6G1EjcuL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

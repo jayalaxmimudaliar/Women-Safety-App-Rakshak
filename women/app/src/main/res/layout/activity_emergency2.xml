@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bluebg"
+    tools:context=".emergency2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="20dp">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="304dp"
+            android:layout_height="62dp"
+
+            android:text="Emergency Helpline"
+            android:textColor="@color/white"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="53dp"
+            tools:layout_editor_absoluteY="38dp" />
+
+        <LinearLayout
+            android:id="@+id/national"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+        android:layout_marginBottom="20dp"
+            android:backgroundTint="@color/white"
+
+            android:background="@drawable/rounded_corners_2"
+            android:orientation="horizontal"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="133dp"
+            tools:ignore="MissingConstraints">
+
+            <ImageView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:src="@mipmap/img_112" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+
+                android:text="112 \nHelpline  "
+                android:textSize="20dp" />
+
+            <ImageView
+
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+               android:layout_marginTop="30dp"
+                android:background="@color/white"
+                android:src="@mipmap/img_phone" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/ambulance"
+            android:layout_marginBottom="20dp"
+            android:layout_width="match_parent"
+            android:backgroundTint="@color/white"
+            android:layout_height="100dp"
+            android:background="@drawable/rounded_corners_2"
+
+            android:orientation="horizontal"
+
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="53dp"
+            tools:layout_editor_absoluteY="276dp">
+
+            <ImageView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/white"
+                android:src="@mipmap/img_ambulance" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+
+                android:layout_marginBottom="20dp"
+                android:text="102\nAmbulance"
+                android:textSize="20dp" />
+
+            <ImageView
+
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+
+                android:layout_marginTop="30dp"
+                android:background="@color/white"
+                android:src="@mipmap/img_phone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/fire"
+            android:backgroundTint="@color/white"
+            android:layout_marginBottom="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/rounded_corners_2"
+
+            android:orientation="horizontal"
+
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="53dp"
+            tools:layout_editor_absoluteY="276dp">
+
+            <ImageView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/white"
+                android:src="@mipmap/img_fire" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+
+                android:layout_marginBottom="20dp"
+                android:text="101 \nFireService"
+                android:textSize="20dp" />
+
+            <ImageView
+
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+
+                android:layout_marginTop="30dp"
+                android:background="@color/white"
+                android:src="@mipmap/img_phone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/women"
+            android:layout_marginBottom="20dp"
+            android:layout_width="match_parent"
+            android:backgroundTint="@color/white"
+            android:layout_height="100dp"
+            android:background="@drawable/rounded_corners_2"
+
+            android:orientation="horizontal"
+
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="53dp"
+            tools:layout_editor_absoluteY="276dp">
+
+            <ImageView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/white"
+                android:src="@mipmap/img_women" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+
+                android:layout_marginBottom="20dp"
+                android:text="1091\nWomenHelp"
+                android:textSize="20dp" />
+
+            <ImageView
+
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+
+                android:layout_marginTop="30dp"
+                android:background="@color/white"
+                android:src="@mipmap/img_phone" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/road"
+            android:backgroundTint="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/rounded_corners_2"
+android:layout_marginBottom="20dp"
+
+            android:orientation="horizontal"
+
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="-16dp">
+
+            <ImageView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/white"
+                android:src="@mipmap/img_road" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="24dp"
+
+                android:layout_marginBottom="20dp"
+                android:text="1073\nRoadAccident"
+                android:textSize="20dp"
+
+
+                />
+
+            <ImageView
+
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+
+                android:layout_marginTop="30dp"
+
+                android:background="@color/white"
+                android:src="@mipmap/img_phone" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/railway"
+            android:backgroundTint="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/rounded_corners_2"
+            android:layout_marginBottom="20dp"
+
+            android:orientation="horizontal"
+
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="0dp">
+
+            <ImageView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/white"
+                android:src="@mipmap/img_rail" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="24dp"
+
+                android:layout_marginBottom="20dp"
+                android:text="182 \nRailway  "
+                android:textSize="20dp"
+
+
+                />
+
+            <ImageView
+                android:id="@+id/phone"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="40dp"
+
+                android:layout_marginTop="30dp"
+
+                android:background="@color/white"
+                android:src="@mipmap/img_phone" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/child"
+            android:layout_marginBottom="20dp"
+            android:backgroundTint="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/rounded_corners_2"
+
+            android:orientation="horizontal"
+
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="0dp">
+
+            <ImageView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/white"
+                android:src="@mipmap/img_children" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="24dp"
+
+                android:layout_marginBottom="20dp"
+                android:text="1098\nChildHelp"
+                android:textSize="20dp"
+
+
+                />
+            <ImageView
+
+                android:layout_width="70dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="30dp"
+                android:layout_height="50dp"
+                android:background="@color/white"
+                android:src="@mipmap/img_phone" />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/pregnancy"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:backgroundTint="@color/white"
+            android:background="@drawable/rounded_corners_2"
+
+
+
+            android:orientation="horizontal"
+
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="416dp">
+
+            <ImageView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/white"
+                android:src="@mipmap/img_pregnancy" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="24dp"
+
+                android:layout_marginBottom="20dp"
+                android:text="108\nDisasterService"
+                android:textSize="20dp"
+
+
+                />
+
+            <ImageView
+
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+
+                android:layout_marginTop="30dp"
+                android:background="@color/white"
+                android:src="@mipmap/img_phone" />
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+</ScrollView>

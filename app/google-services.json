@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822091834312",
+    "project_id": "real-4add2",
+    "storage_bucket": "real-4add2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822091834312:android:851e7d8bce4da7dd61d6fd",
+        "android_client_info": {
+          "package_name": "com.example.wsafety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnUAyv_G97h0GcOkxT-vxHtL137bNTF3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
