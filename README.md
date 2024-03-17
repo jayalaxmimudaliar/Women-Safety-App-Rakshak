@@ -7,15 +7,15 @@ it is simple to implement,easy to understand.
 
 
 
-[<img src="media/loginpages.jpg" />]
+<img src="media/loginpages.jpg" />
 <br>
-[<img src="media/MainPage.jpg" />]
+<img src="media/MainPage.jpg" />
 <br>
-[<img src="media/sos.jpg" />]
+<img src="media/sos.jpg" />
 <br>
-[<img src="media/period_tracker.jpg" />]
+<img src="media/period_tracker.jpg" />
 <br>
-[<img src="media/emergency.jpg" />]
+<img src="media/emergency.jpg" />
 
 
 
