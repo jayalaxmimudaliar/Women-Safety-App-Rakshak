@@ -7,13 +7,13 @@ it is simple to implement,easy to understand.
 
 
 
-![Login Page](media/loginpages.jpg)
+![Login Page](https://github.com/jayalaxmimudaliar/Women-Safety-App-Rakshak/blob/master/media/loginpages.jpeg)
 <br>
-![Main Page](media/MainPage.jpg)
+![Main Page](https://github.com/jayalaxmimudaliar/Women-Safety-App-Rakshak/blob/master/media/mainpage.jpeg)
 <br>
-![SOS](media/sos.jpg)
+![SOS](https://github.com/jayalaxmimudaliar/Women-Safety-App-Rakshak/blob/master/media/sos.jpeg)
 <br>
-![Period Tracker](media/period_tracker.jpg)
+![Period Tracker](https://github.com/jayalaxmimudaliar/Women-Safety-App-Rakshak/blob/master/media/period_tracker.jpeg)
 <br>
 ![Emergency](https://github.com/jayalaxmimudaliar/Women-Safety-App-Rakshak/blob/master/media/emergency.jpeg)
 
