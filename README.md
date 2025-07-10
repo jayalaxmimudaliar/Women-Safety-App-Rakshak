@@ -15,7 +15,7 @@ it is simple to implement,easy to understand.
 <br>
 ![Period Tracker](media/period_tracker.jpg)
 <br>
-![Emergency](media/emergency.jpg)
+![Emergency](https://github.com/jayalaxmimudaliar/Women-Safety-App-Rakshak/blob/master/media/emergency.jpeg)
 
 If images Format are not supported.kindly view the Output in media file
 
